@@ -6,7 +6,7 @@
 
 ## Aim
 
-To study the I–V characteristics of a Gunn diode and the depth of modulation of a PIN diode.
+To study the I–V characteristics of a Gunn diode and the depth of modulation of a PIN diode
 
 ## Apparatus Used
 
